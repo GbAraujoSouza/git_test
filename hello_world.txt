@@ -1,0 +1,3 @@
+Hello World!
+This is my first file on Odin Project .
+I am happy and motivated to learn the basics of web development!!
